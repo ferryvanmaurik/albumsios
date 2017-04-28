@@ -1,0 +1,21 @@
+dependencies: \
+  /Users/ferryvanmaurik/OneDrive\ -\ Softwareness/Study/Programming/ReactNative/albumsios/node_modules/react-native/Libraries/Text/RCTText.m \
+  /Users/ferryvanmaurik/OneDrive\ -\ Softwareness/Study/Programming/ReactNative/albumsios/node_modules/react-native/Libraries/Text/RCTText.h \
+  /Users/ferryvanmaurik/OneDrive\ -\ Softwareness/Study/Programming/ReactNative/albumsios/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/ferryvanmaurik/OneDrive\ -\ Softwareness/Study/Programming/ReactNative/albumsios/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/ferryvanmaurik/OneDrive\ -\ Softwareness/Study/Programming/ReactNative/albumsios/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/ferryvanmaurik/OneDrive\ -\ Softwareness/Study/Programming/ReactNative/albumsios/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/ferryvanmaurik/OneDrive\ -\ Softwareness/Study/Programming/ReactNative/albumsios/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/ferryvanmaurik/OneDrive\ -\ Softwareness/Study/Programming/ReactNative/albumsios/node_modules/react-native/Libraries/Text/RCTShadowText.h \
+  /Users/ferryvanmaurik/OneDrive\ -\ Softwareness/Study/Programming/ReactNative/albumsios/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/ferryvanmaurik/OneDrive\ -\ Softwareness/Study/Programming/ReactNative/albumsios/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/ferryvanmaurik/OneDrive\ -\ Softwareness/Study/Programming/ReactNative/albumsios/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/ferryvanmaurik/OneDrive\ -\ Softwareness/Study/Programming/ReactNative/albumsios/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/ferryvanmaurik/OneDrive\ -\ Softwareness/Study/Programming/ReactNative/albumsios/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/ferryvanmaurik/OneDrive\ -\ Softwareness/Study/Programming/ReactNative/albumsios/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/ferryvanmaurik/OneDrive\ -\ Softwareness/Study/Programming/ReactNative/albumsios/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/ferryvanmaurik/OneDrive\ -\ Softwareness/Study/Programming/ReactNative/albumsios/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/ferryvanmaurik/OneDrive\ -\ Softwareness/Study/Programming/ReactNative/albumsios/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/ferryvanmaurik/OneDrive\ -\ Softwareness/Study/Programming/ReactNative/albumsios/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/ferryvanmaurik/OneDrive\ -\ Softwareness/Study/Programming/ReactNative/albumsios/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/ferryvanmaurik/OneDrive\ -\ Softwareness/Study/Programming/ReactNative/albumsios/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h
